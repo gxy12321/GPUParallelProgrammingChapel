@@ -1,0 +1,8 @@
+notes https://wgpages.netlify.app/chapel-gpu
+99 users, pick a username https://bit.ly/4axELwT
+1. main training cluster `cass.vastcloud.org` (also 206.12.99.179, on Arbutus)
+3 CPU nodes c8-30gb-186-avx2, 1 GPU node g1-8gb-c4-22gb
+password = chlang782
+2. backup cluster `chapel.c3.ca` (on Beluga)
+5 CPU nodes c4-15gb
+password = chapelpwd
